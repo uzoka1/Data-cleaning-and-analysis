@@ -1,7 +1,7 @@
 ## Mini Project: Data Cleaning and Analysis Task
 
 ### Data Cleaning and Insights Report
- This report lays out the process  used to clean up the dataset give and points out the main things i learned from the cleaned up data. The dataset had sales records for different fantasy and comic book products. 
+ This report lays out the process  used to clean up the dataset give and points out the main things  learned from the cleaned  data. The dataset had sales records for different fantasy and comic book products. 
 
  ### Data Sources
 
